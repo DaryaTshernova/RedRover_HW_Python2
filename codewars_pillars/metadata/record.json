@@ -1,0 +1,19 @@
+{
+  "id" : "5bb0c58f484fcd170700063d",
+  "name" : "Pillars",
+  "slug" : "pillars",
+  "url" : "https://www.codewars.com/kata/5bb0c58f484fcd170700063d",
+  "category" : "reference",
+  "languages" : [ "javascript", "python", "ruby", "c", "haskell", "php", "cpp", "r", "scala", "julia", "cobol", "csharp", "java" ],
+  "path" : "/projects/650572bf0ac27d04d11833b1/",
+  "selectedLanguage" : "python",
+  "description" : "There are pillars near the road. The distance between the pillars is the same and the width of the pillars is the same.\nYour function accepts three arguments:\n1. number of pillars (≥ 1);\n2. distance between pillars (10 - 30 meters);\n3. width of the pillar (10 - 50 centimeters).\n\nCalculate the distance between the first and the last pillar in centimeters (without the width of the first and last pillar).",
+  "rank" : {
+    "id" : -8,
+    "name" : "8 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals", "Mathematics" ],
+  "workUrl" : "https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/python",
+  "completed" : false
+}

@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "python",
+  "label" : "Python",
+  "solutionId" : "650572c00ac27d017d1834ac",
+  "icon" : "python",
+  "setup" : "def pillars(num_pill, dist, width):\n    pass",
+  "exampleFixture" : "import codewars_test as test\nfrom solution import pillars\n\n@test.describe(\"Basic Tests\")\ndef basic_tests():\n    \n    @test.it(\"Basic Tests\")\n    def basic_tests():\n        test.assert_equals(pillars(1, 10, 10), 0)\n        test.assert_equals(pillars(2, 20, 25), 2000)\n        test.assert_equals(pillars(11, 15, 30), 15270)",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "3.11",
+  "languageVersions" : [ {
+    "id" : "3.8",
+    "label" : "3.8",
+    "supported" : true
+  }, {
+    "id" : "3.10",
+    "label" : "3.10",
+    "supported" : true
+  }, {
+    "id" : "3.11",
+    "label" : "3.11",
+    "supported" : true
+  } ],
+  "testFramework" : "cw-2",
+  "path" : "/projects/650572bf0ac27d04d11833b1/",
+  "fixture" : "uU0KqRZLCmN6H1TTI1KQ6a2l/HH7L4YcQ8GfxtKbaU3Xg2aBgjfaiXEOKvRK\nL7os3VcgfUEf77Y7uA8LcrsZyXeVFnxsw/8MRJthiz470C8HO644Y+Pbkh4x\nDVqx3askhUWsULPwyz2ZnpMGjv4ZjEYzZwIu/CR95E4QWXHZo/LyugvelwFe\n3/ouZEBnPN7mxfZ+Fq0CHNWhIuppJMVqWrz7mNpDmXZQa+DtHR2w+gAmteZR\n8lL1f8U+j1YuDGDCYIUVxwZFVSen/cSziedZ+w2wmppqXcH3zLNPVgExqOqL\n850vnLcFV3mxVfG6cCUXg/OexsTcd45oc7g2RwTmGqeeyqJQO1oaWOHPXZvq\n1No6pqqyxFqekcU40GvnGsNwWTG71CDFKLqrxQsJEdsgyshdBglJPTQSr1Fw\n2K1qZErV4eD4gZdz3GnXQ0XrzVse7d07kacN64hOMi4K+vfAOBVHYSMrs5/D\n3P9BapEOmkgWS8CbvgOxZOEvMPTXYU4GdAvSEtlOpgqeAl1MibXK+NtV2Lps\nVGVkaiMJvZVkYb1A7Lk/u3Hgo0j485JUHTfnZEga9dv8apQQOpJo9/0rwfwf\nygrvhWtIvrG8eBS9hqvajHtITGeYiMPEzPDYvn4eLsb8ws5hwYij4twJhVbL\nQn+ms0zq332R98wzizKuGGUblNbQ0HEHLnT2i+mVR25ZvhkbbOnmWMcH3yHj\nxR1GYs4V3j0hNxwZ2LP39AHaqGAjITSTvo5o8RWe41Drm8tP8TF63JnPbJ48\n7uW/pdD6wp5UcRiz+vZ4IQIxCLqFQqRMv3TwLbMftbJJz6I3SIVIGwxzODkY\ncXyIFmsvb7/uh4M8I/mF6GMWHLwXDblyvRQXcLcrxJuPKbkDY5iGM6cZAhAa\nPv0s/xS842g6PWi4HxhH+OiwKvcV6358X70He4ZEUS23MsjJ1yQR2rZ+tu8G\nrA/DMtNvlmiOpUaket40a2FYJKAHyyiI9YYXlrqJfoDmBvyLh7qd1I3Vv5Vs\n2iXQWxjgl2qpMvDs4xhQZgJV0xIu8c3WHXUvt6bwmOWWdiOf+zw3QqroPlC0\nOKZlIWgxSzjvXnJpFh/1+TDGg3rk0WHH/BJeipaLqgrJWYK1epn1P6x+k32v\nHU9oYpU9Mqg9MxBppgggdqNCkJJ1BkYCw3kZhoAIvPnFFXzhHidaxSDJw7Xf\nlH78CZQXiAGvL5SdLc0vUd6KXGk7ILl3wr3NjM+Q5V6z5gQCZGmrcwyfJ8ZB\np+PDXhybLQST61XcPcTU\n--3DGJBAO/MZ9ZtmxGEUO6ZA==--u",
+  "package" : ""
+}
