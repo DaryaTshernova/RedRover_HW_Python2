@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "python",
+  "label" : "Python",
+  "solutionId" : "650472a9d27900098bd596b1",
+  "icon" : "python",
+  "setup" : "def longest(a1, a2):\n    # your code",
+  "exampleFixture" : "import codewars_test as test\n    \n@test.describe(\"longest\")\ndef tests():\n    @test.it(\"basic tests\")\n    def basics():\n        test.assert_equals(longest(\"aretheyhere\", \"yestheyarehere\"), \"aehrsty\")\n        test.assert_equals(longest(\"loopingisfunbutdangerous\", \"lessdangerousthancoding\"), \"abcdefghilnoprstu\")\n        test.assert_equals(longest(\"inmanylanguages\", \"theresapairoffunctions\"), \"acefghilmnoprstuy\")\n        ",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "3.11",
+  "languageVersions" : [ {
+    "id" : "3.8",
+    "label" : "3.8",
+    "supported" : true
+  }, {
+    "id" : "3.10",
+    "label" : "3.10",
+    "supported" : true
+  }, {
+    "id" : "3.11",
+    "label" : "3.11",
+    "supported" : true
+  } ],
+  "testFramework" : "cw-2",
+  "path" : "/projects/650472a889f47d1841e07aaa/",
+  "fixture" : "9BQsmJC5aIjL8FuhNeOiNTZOrZhTQiCTHwRUm7fPQPaqIDH7EiZ4O4at88L3\nGJ5LyeE+eWchpvB92PDwwIVd8Y9EDK0mXGwsm0TplFMUVIIEYHyUiTVV7RBM\n5wEx7hLCFpV1SuGwzejKaYXcBGFZK6X6AiMOoNEuHGuGA1BXhIlg7k5Toen9\nwqfTrHVr4ydb4siwzaY0AgRY+lLATSeba22FHGncQeCi3Y+vq1yfowC4ugFB\nmIMOiRQZz9kZ4yUPTU3ooygAkLktRwW9kZve4OykEHydxqvB/+WWWCPkRykY\nDQCTQkCjlT7wNsfX+GMYhCEa/y27qdhxehwyIPRzwu+Reu+PNtTtJOs+aAaI\nGksNe65dyehq6wfVHn4cOO2Uxz2IPIAh5DynC5bjLdasB5Nm/zMFD5e5ZW7m\n0QV7vP2T1bgft4Uv3LLJrAOj8jcRXYCSoyAbIdtMlfmCcWj2EOsDnFGF+g5/\n6q577tWxiPbhzf4hjoU5vAFlnZtHxkR/k+3ALRxgMDolps+xfo8X3whI9Z/+\n/CuLr0CssZJeFv4SULlryKzgQa3p7IIFMmF92ZVIyFF4sL0x/bKlSl+72Uqz\n1AyAtkNTGvnJyHF7yLpIhdXj070jv1PRhJD5Yh5EyV887n7YSoQoHeaig6OY\nPnQdR+tdwI4/8bdW6odEZ8RPMkZkFmmUjow2+6ovVVchoymkMTlYxCUgqwZx\nUhwawj+aE1qTQmIG5LHm6ZiMBjKMPv4uBV/vQjHT85CH42Q+PmWN3sRIrtNV\nanEc5G+N67fW0k8GDtxeuMU9HDlRRV8P1tUkTzlOuWlpege3o+lLQYi6c+qK\nLY6+2C//2t2Pho42Y/YhnpzcfN621lUfkcEICVFRQzzJXfDZaw+N0ilUlGIO\nXSu1r1HTWWEXlC60U/EihKvYoumL5BG29RQPc7y0I0nKKiXD0d374F1KuOdX\n6kliEA+i7OI2JKv0D52uVhBSsdyRtxlInTc3Hb3M9alNPrI7DvLmtqjrDOYL\nQx7otsW0gSqz+1hY6v2ycgJBbjdBuIUYaaj9uqiH8XxT4eeUahbxD/UhC0gZ\nSrlwpeo1/bWHVlXHB6Di4CdFA/evTzRRP8OeyKrvUdJilj5HiTsUmYFOaIOk\nTNEL+TuBEfPnL8Jfl7rsRY3kgsyaQAnA+aR9SLYwHyuWFjiFyBq4kbDmu7IK\nCAfEaET6LneEdeE/cmn2vxc2cahSZ83rxWoHoypQ4KLSeFO+iCiHUbs0lBZB\namLOieuBdkWlakI6U2M6+yELGDYBQqQv+V4lctM+x1YBVp0PvO/CgygRi6j4\no023q0E0WEDhSL2Eba0Rrhh5gtw4uOhbjwbJTMHuOR8k4b0KVDxe6N91y9kV\nIvPfSQvKaHb5+yAtHHdy667CPw2kDEbmJcNwXKQZjzrKaYA3p1b5fX8o20J3\nJfpJMskvSK9IdvEH+xYZAX5yRhW3JLJokwS1fO09VbmjoMTXdI6CRfMnYqtg\nCyAHgg5PUB+2HvJLuH9vwTAQSCjLU5a4KxkhIGo+Gn0wAiFWNapZLi5JTFhy\nmEH+lVebokq+TAa2q9uNgWxkYk5AjLOdm1Nus73oixePazYc3/5rAKQwWtyD\n7bQ8BntBaNJ3D8WswGAd35nKpoitm0wkmgdz36uSRUTWK+Y1Wa20h5XdBenx\nvh8ZyIfVsO6pGdCyyzFPdfo2MwbBBVdbZHGsYqq32ST4v3sx\n--sP0HBa3lXqOcO87h643j5w==--u",
+  "package" : ""
+}

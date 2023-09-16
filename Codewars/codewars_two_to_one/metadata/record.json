@@ -1,0 +1,19 @@
+{
+  "id" : "5656b6906de340bd1b0000ac",
+  "name" : "Two to One",
+  "slug" : "two-to-one",
+  "url" : "https://www.codewars.com/kata/5656b6906de340bd1b0000ac",
+  "category" : "reference",
+  "languages" : [ "java", "csharp", "ruby", "python", "javascript", "coffeescript", "haskell", "clojure", "cpp", "php", "crystal", "fsharp", "c", "elixir", "typescript", "shell", "ocaml", "kotlin", "julia", "go", "r", "rust", "scala", "powershell", "nim", "reason", "racket", "dart", "pascal", "perl", "cobol", "d", "erlang" ],
+  "path" : "/projects/650472a889f47d1841e07aaa/",
+  "selectedLanguage" : "python",
+  "description" : "Take 2 strings `s1` and `s2` including only letters from `a` to `z`.\nReturn a new **sorted** string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.\n\n#### Examples:\n```\na = \"xyaabbbccccdefww\"\nb = \"xxxxyyyyabklmopq\"\nlongest(a, b) -> \"abcdefklmopqwxy\"\n\na = \"abcdefghijklmnopqrstuvwxyz\"\nlongest(a, a) -> \"abcdefghijklmnopqrstuvwxyz\"\n```\n",
+  "rank" : {
+    "id" : -7,
+    "name" : "7 kyu",
+    "color" : "white"
+  },
+  "tags" : [ "Fundamentals" ],
+  "workUrl" : "https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python",
+  "completed" : true
+}

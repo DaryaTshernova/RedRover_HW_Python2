@@ -1,0 +1,30 @@
+{
+  "success" : true,
+  "languageName" : "python",
+  "label" : "Python",
+  "solutionId" : "6502d7d930881a1641a2d7d8",
+  "icon" : "python",
+  "setup" : "def printer_error(s):\n    # your code",
+  "exampleFixture" : "import codewars_test as test\nfrom solution import printer_error\n\n@test.describe(\"printer_error\")\ndef basic_tests():\n    @test.it('Example Test Cases')\n    def example_test_cases():\n        s=\"aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz\"\n        test.assert_equals(printer_error(s), \"3/56\")\n        s = \"kkkwwwaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz\"\n        test.assert_equals(printer_error(s), \"6/60\")\n        s = \"kkkwwwaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyzuuuuu\"\n        test.assert_equals(printer_error(s) , \"11/65\")",
+  "workingCode" : null,
+  "workingFixture" : null,
+  "recentlyAttempted" : null,
+  "activeVersion" : "3.11",
+  "languageVersions" : [ {
+    "id" : "3.8",
+    "label" : "3.8",
+    "supported" : true
+  }, {
+    "id" : "3.10",
+    "label" : "3.10",
+    "supported" : true
+  }, {
+    "id" : "3.11",
+    "label" : "3.11",
+    "supported" : true
+  } ],
+  "testFramework" : "cw-2",
+  "path" : "/projects/6502d7d641358d1bb2a82f52/",
+  "fixture" : "w51dGuR70lwI0zX+Tv9UkAaa3hpCaA6DeSQFstFd1snRO+8O3jMTazgw1sMX\nyEf016XWEQ6KiFnVllDXvgFCLFnGEsLrKOHlCnOci9JKSTO9THM2S91eiJXH\n/WZN+ubl7Kn+IH9j7x86FetnKsS2HHcOSXZ8FL1zTRj3fhRgkT2Q4HWqJWry\nLIXYOZEB0rcmL5l8TF1AE9lQ1LorQ7WFIs+8udVPZKxUy4fiDtrpb2vu+VfL\nZtqSwfIua3ltAZDhfB2YNqVa/21k62f3H1mBOJWWwi6ESSrdq/F3IawlL0Xl\ngl+K8HBiCq7S7LEb1OqwE5KLX0OiIeP61DT4dmprsP+Cc56YppZjbupqZ5gy\n2aWj1EmRrLT8efvq/DPw0K8RWJRhRyc/S0H8dPL66icLymjKwFa/9td3hWT6\nUJtkHMTMXHmi3gIhWN1S7ra9VmeWFpzDOCfKgWcM+987IXpEc+4hPpDU6ELp\nXEKVHtqCkecWhCcJFF7gh7ssYB8A7t4SV/k7lx22iHVxRtqT2KoviRDzd9hr\nmbdz1LUMJ+R2EG2ap/kxqygCDaRPaO8/1h8znoL4u2cVse7WfpplV6CIdHri\n6oWn8OGHP7wD5ay35Dqnc+OrSN80ystUj6LNOndqNmtp6Jbm1AWXtAlcx9JO\nNXh5onYjnjusq/8ISMjpSVO/1IWsdhjFljTryPPnXTi9XpvXrAFi5aoUP1TZ\nFfpPO5n6Z1vGWrMqB+nyblYGPJtGVbWaOcJ0DgOBtBgBJqIW30L+htarhEyw\niGQxOASmkNyjhvLXzJtHRZjFwpGGsNicxskdyGIXpzQFi8dep15VXEW6zLpZ\n99ywNFM9dQdj79PqkQCJPsE69jgSXUlSQw8uCQUBsq0A9Nw1RJgIQNKKWsly\nDM3/5PpoyugMWzVSVa1MIsOuVs7yYDqsmHgcF/SFI9WSepC7gKadRX4XJ3FK\n3c6xgwbXCiUKtDAi36b7Fop/250/4/+44RYAZdGE2Bhh55B6gPuKvgf14CUO\nTqfQBp1XNGlNoLzCfu5II3M6Isnsb4l1J2on070zKYtTYlReTCEHbZKJPdh8\nuXOPY9Re24cD/sZxhfP3GMnRMhZMQgf3WTZmDNPSR+qiqrgoYvTucn946Th+\n4rFgRdZ3QSjfwekNdrpgRKAjpzNkFwxiuFrP4P4P4HkzPF/djTfSrU0/lJUA\nnd6c+KqwhdpJP0Pa3VwxMSTalqdqmiEQm8yMuN8iBDpOLdXZEzuQaGsXMBN+\nnsonjZJ+fF5sGvbgXDGR7OWPtNK8Fxf50PqrtY4M7qkaAEt+mkQ4zO4mFaWM\n+1JbXrfjPOuTdGQB4i+F4ArO3RCrkXGvxUrUHt+QYiLNW76PWjbu9aeqlBmx\nCVyJU0DhOvzxSBU2QUolQxQ4lfxZqxO8iQuJM7L1RUJYoVpKJdNtl88cxcDy\n9AcxOhKJ0v6GFTtT3uN69EYVFQjQbEplP/qS9qfkw7m7bAuoKYKE5Bvbj3kF\nP93u7ltQE9V5+DZpU5F4THpIqbW3WE0dwqOESnDlyygF6c5nvMUW+l4enlfl\nUhJRS79Sw+nTlX+2xK0zne8tx4O/ofamUAe+prrXxk3yYGS+zLp5mtEHWdRT\nMBO41gPQ+shOqfQ1/a+2dj52hlrOO+2TCrqwBiLDLOmbbjBBFQvStkK6WtQZ\nZHpa0i6+5A+8hIEXAWyT7K8xQqqNk25GHViWbZ4WwPf5peAxxSNQH6jUZTWE\nNlSP9y2bAFJFjhJEe9Q24sG7M4rv/AqVqUHoqyyx7PaL3MzPOQQ/DTZD1IvP\nHaQU2OyJNtVkf9DWFURCuQqAVFuMl77GwGB2ukL+0t+t8t0hdh7tfWn9M0XV\nV3VvMp+p1h9AW4/9Yg==\n--/4woY6VoDn+KViVg/q5QBQ==--u",
+  "package" : ""
+}
